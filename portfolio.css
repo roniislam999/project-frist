@@ -1,0 +1,44 @@
+.nev{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+.mcolor{
+   color: #FD6E0A; 
+}
+
+.marry{
+    color: #181818;
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+
+}
+.nev>ul{
+    display: flex;
+    align-items: center;
+    
+}
+.nev li{
+    list-style: none;
+    margin: 50px;
+}
+.nev a{
+    text-decoration: none;
+    color:#474747 ;
+}
+.Hire{
+    border-radius: 5px;
+background: #FD6E0A;
+border: none;
+color: white;
+font-size: 20px;
+font-weight: 700px;
+padding: 7px 13px;
+}
+
