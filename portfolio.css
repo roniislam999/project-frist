@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0px 200px;
     
 
 }
@@ -41,4 +42,26 @@ font-size: 20px;
 font-weight: 700px;
 padding: 7px 13px;
 }
-
+/* header background image added */
+.header{
+    background-color: #FFF8F3;
+}
+.banner{
+    padding:30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.btn{
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 700px;
+    padding: 7px 13px;
+}
+.profile{
+    width: 400px;
+   
+    
+}
